@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "example-from-checki",
+		"path": "."
+	},
+	{
+		"name": "src",
+		"path": "..\\..\\..\\code\\btc-es-technology-example\\src"
+	}
+],
+  "settings": {}
+}
